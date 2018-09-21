@@ -14,6 +14,7 @@ class calctest {
 		assertEquals(3,calc.sum(1, 2));
 		assertEquals(5,calc.sum(3, 2));
 		assertEquals(10,calc.sum(1, 9));
+		
 	}
 
 }
